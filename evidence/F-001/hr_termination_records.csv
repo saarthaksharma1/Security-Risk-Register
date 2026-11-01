@@ -1,0 +1,5 @@
+employee_id,email,employment_status,termination_date
+E101,former.one@example.com,Terminated,2026-09-18
+E102,former.two@example.com,Terminated,2026-09-25
+E103,active.one@example.com,Active,
+E104,active.two@example.com,Active,

@@ -1,0 +1,5 @@
+employee_id,application,account_status,export_date
+E101,Jira,Disabled,2026-11-01
+E102,GitHub,Disabled,2026-11-01
+E103,Jira,Active,2026-11-01
+E104,GitHub,Active,2026-11-01
