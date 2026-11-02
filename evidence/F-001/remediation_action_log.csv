@@ -1,0 +1,3 @@
+finding_id,employee_id,application,issue_identified,corrective_action,action_owner,action_date,post_remediation_status,evidence_reference
+F-001,E101,Jira,Terminated user retained active access,Disable terminated user account,IT Operations,2026-11-01,Disabled,remediation_access_export.csv
+F-001,E102,GitHub,Terminated user retained active access,Disable terminated user account,IT Operations,2026-11-01,Disabled,remediation_access_export.csv

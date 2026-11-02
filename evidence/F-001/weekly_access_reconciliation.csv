@@ -1,0 +1,5 @@
+review_date,employee_id,hr_status,application,account_status,exception_identified,review_owner,review_result
+2026-11-01,E101,Terminated,Jira,Disabled,No,IT Operations,Pass
+2026-11-01,E102,Terminated,GitHub,Disabled,No,IT Operations,Pass
+2026-11-01,E103,Active,Jira,Active,No,IT Operations,Pass
+2026-11-01,E104,Active,GitHub,Active,No,IT Operations,Pass
